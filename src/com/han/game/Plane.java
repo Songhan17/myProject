@@ -7,7 +7,7 @@ import java.util.Timer;
 
 /**
  * 
- * @author 张涵霖
+ * @author 十七
  * 自机的类
  */
 public class Plane extends GameObject {

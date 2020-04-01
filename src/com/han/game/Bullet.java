@@ -4,7 +4,7 @@ import java.awt.Graphics;
 import java.awt.Image;
 /**
  * 
- * @author 张涵霖
+ * @author 十七
  * 子弹类
  */
 public class Bullet extends GameObject implements Runnable {

@@ -5,7 +5,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 /**
  * 
- * @author ’≈∫≠¡ÿ
+ * @author  Æ∆ﬂ
  * ΩÈ…‹¥∞ø⁄
  */
 public class InfoFrame extends JFrame{

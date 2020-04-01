@@ -8,7 +8,7 @@ import javax.imageio.ImageIO;
 
 /**
  * 
- * @author 张涵霖 
+ * @author 十七 
  * 工具类 
  * 最好将构造器私有化
  */

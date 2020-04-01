@@ -2,7 +2,7 @@ package com.han.game;
 import java.awt.Image;
 /**
  * 
- * @author 张涵霖
+ * @author 十七
  * P点，影响火力
  */
 public class Power extends GameObject {

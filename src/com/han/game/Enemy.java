@@ -5,7 +5,7 @@ import java.awt.Image;
 
 /**
  * 
- * @author ’≈∫≠¡ÿ 
+ * @author  Æ∆ﬂ 
  * boss¿‡
  */
 public class Enemy extends GameObject {

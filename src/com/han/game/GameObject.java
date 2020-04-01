@@ -5,7 +5,7 @@ import java.awt.Image;
 import java.awt.Rectangle;
  /**
   * 
-  * @author 张涵霖
+  * @author 十七
   * 所有物体的父类
   */
 public class GameObject {

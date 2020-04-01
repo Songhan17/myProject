@@ -6,7 +6,7 @@ import java.util.Random;
 
 /**
  * 
- * @author 张涵霖
+ * @author 十七
  * 敌人的类
  */
 public class SEnemy extends GameObject {

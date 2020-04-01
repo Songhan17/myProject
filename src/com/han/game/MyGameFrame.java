@@ -21,7 +21,7 @@ import java.util.TimerTask;
 
 /**
  * 主窗口
- * @author 张涵霖
+ * @author 十七
  *
  */
 public class MyGameFrame extends Frame {
@@ -491,7 +491,7 @@ public class MyGameFrame extends Frame {
 	
 	/**
 	 * 
-	 * @author 张涵霖
+	 * @author 十七
 	 * 500毫秒线程
 	 */
 	class eBulletThread extends Thread {
@@ -535,7 +535,7 @@ public class MyGameFrame extends Frame {
     
 	/**
 	 * 
-	 * @author 张涵霖 
+	 * @author 十七 
 	 * 子弹类的间隔时间控制，多线程
 	 */
 	class BulletThread extends Thread {
@@ -574,7 +574,7 @@ public class MyGameFrame extends Frame {
     
 	/**
 	 * 
-	 * @author 张涵霖 
+	 * @author 十七 
 	 * 内部类 多线程调用
 	 */
 	class PaintThread extends Thread {
@@ -634,7 +634,7 @@ public class MyGameFrame extends Frame {
     
 	/**
 	 * 
-	 * @author 张涵霖 
+	 * @author 十七 
 	 * 内部类 按键监听事件
 	 */
 	class KeyMonitor extends KeyAdapter {
@@ -672,6 +672,8 @@ public class MyGameFrame extends Frame {
 		Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
 		// 设置窗口位置
 		setLocation((int)screenSize.getWidth()/4, (int)screenSize.getHeight()/4-240);
+		// 窗口居中
+		setLocationRelativeTo(null);
 		// 设置关闭运行
 		addWindowListener(new WindowAdapter() {
 		    @Override

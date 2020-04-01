@@ -13,7 +13,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 /**
  * 
- * @author 张涵霖
+ * @author 十七
  * 标题界面
  */
 public class Welcome extends JFrame {
